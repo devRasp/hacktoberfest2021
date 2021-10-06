@@ -25,6 +25,6 @@ A full-month event is started. Wohooo.
  - Sign up with GitHub. (GitLab not supported here)
  - Fill about you. and go ahead.
  - Complete all the Steps. Good to go
- - Now submit 4 repo here. That's all.
+ - Now submit 4 PRs here. That's all.
 
 ![HacktoberFestBanner](../../blob/main/_src/footer-dark.png)
