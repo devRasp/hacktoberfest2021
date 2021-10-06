@@ -27,4 +27,8 @@ A full-month event is started. Wohooo.
  - Complete all the Steps. Good to go
  - Now submit 4 PRs here. That's all.
 
+##### Additional Rules
+
+- Never delete the PR template.
+
 ![HacktoberFestBanner](../../blob/main/_src/footer-dark.png)
