@@ -1,6 +1,7 @@
 ![HacktoberFestBanner](../../blob/main/_src/banner-dark.png)
 
-Hi, This is October.
+## Hi fellow Nerds,
+This is October.
 
 And you guys are saying "So, What?"
 
