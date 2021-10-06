@@ -10,6 +10,9 @@ A full-month event is started. Wohooo.
 
 (Submit 4 PR and Get a Tee from HacktoberFest 2021, *not from us.* )
 
+#### Side Note
+HacktoberFest is considered as "invited DDoS by the elite community." And thinking about it. It seems like one. So what we can do? We can use this opportunity to make things nice. Go ahead and find any repo which actually needs helps and listed as hacktoberFest repo. This will ture-ly make hacktoberFest better.
+
 ### Rules
 
  - Put all *your* code in a folder (with appropriate name) And don't edit any other files.
