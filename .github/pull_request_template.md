@@ -6,6 +6,7 @@
 
 
 # Description
+<!--Please describe the bug.-->
 
 <!--Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.-->
 
@@ -15,6 +16,9 @@
 - [ ] This code is my own and I haven't copy-pasted it.
 - [ ] This code is not a malware.
 - [ ] Your PR only affects your file and nothing else.
+
+# Describe your PR
+<!--Describe your bug-->
 
 <!--Your code or PR only affects your file and you didn't changed any other files. If this Rule is not followed your PR will be rejected.-->
 
