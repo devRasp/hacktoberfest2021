@@ -1,14 +1,18 @@
 ![HacktoberFestBanner](../../blob/main/_src/banner-dark.png)
 
 ## Hi fellow Nerds,
-This is October.
+This is October. 
 
 And you guys are saying "So, What?"
 
-THIS IS HACKTOBER FEST 2021. YES, the event of FREE swag.
+THIS IS **HACKTOBER FEST 2021**. YES, the event of FREE swag.
 A full-month event is started. Wohooo.
 
 (Submit 4 PR and Get a Tee from HacktoberFest 2021, *not from us.* )
+
+### Hacktoberfest
+
+It's a yearly event. Happens in octuber which provide massive scale of PR to all the repositry which OPTed for the same.
 
 #### Side Note
 HacktoberFest is considered as "invited DDoS by the elite community." And thinking about it. It seems like one. So what we can do? We can use this opportunity to make things nice. Go ahead and find any repo which actually needs helps and listed as hacktoberFest repo. This will ture-ly make hacktoberFest better.
