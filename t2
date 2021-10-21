@@ -1,0 +1,20 @@
+
+flag[j] = true;
+
+turn = i;
+while (flag[i] == true && turn == i)
+
+	{ // then producer will wait }
+
+
+	flag[j] = false;
+
+	flag[i] = true;
+	turn = j;
+
+	while (flag[j] == true && turn == j)
+
+		{ // then consumer will wait }
+
+		
+		flag[i] = false;
